@@ -1,0 +1,2 @@
+com/demo/androidutilsdemo/BuildConfig.java
+ com.demo.androidutilsdemo.BuildConfig

@@ -1,0 +1,4 @@
+#Tue Jun 07 17:10:51 PKT 2022
+base.0=D\:\\AndroidUtilsDemo\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

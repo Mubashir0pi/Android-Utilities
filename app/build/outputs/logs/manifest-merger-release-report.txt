@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\14ef503d7e817eb32e3b386491b877d6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\4266dfc75a8623533785fe87d078fdf4\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00876cadafcb863ca8b4c32198143b3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\effb00749157cd666f9793f914bb82fa\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a5bde948a26a9ca4a9b57436b4d2c948\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\b54c6916823f7b82038cf5626aa82665\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\73cbab6d3dc2208e842a591fdc5dafff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ecf91f8536faae4df3d04a20dcd91f92\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\36f1a45fe45788bd7f2ee1c7ad6df477\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\50e3015003d21c972722c8c3d40112fd\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\5a23b2623ebd518085e06be42e72310d\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\3f0c75a960e8c248fda00ec59f39fadf\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\05acf7eac3dacf8740849808e15ee17f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\31cce6b55403954cb6e4ae79fddf5f8d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\50f974fd7a38ce155a9337fa311be3d9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0075fc1a68740d2bccddadc4414708fd\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a16706cb4c5a63fc344a186012d6a04f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a476ee745a3c5b63e88cabeca3e1974e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\613a3784c201ed3ddc2e829fb52db439\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e101abe3f56576ff3f201d55ada0e88c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\dbf0dc3f29137e1f0abf7d3ac597a22e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\026167ea4246b5a6f8aa5614d7b6bb67\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0baab0d867ff512ca5efafc33914e2b5\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\1fabc6be64b4c35db55eaf3d5d595963\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\91d031ba60cde78605cbd553ed3b2472\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0c3aba4401646d8eb020aeb83ba98f5c\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\debf73c419622a25ceea786ea4685813\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\7c6a2092c8644655858e27616ef46352\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ca0fd96b5cd0df90f915a65176f5dcde\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\11b5add0f0daf5a500484889bb45edd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a063e7e4b3a212ddcf9d27bd35c3bc65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\92090a57b8781dd8e846f157f562c16b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e345c3b5dcfa922965c1a1190275f346\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ed49ebda25a1721a3eb6a01949f93069\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00996c73b40f6cbaecb6775618fbc569\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\664531667e87743f2ab0f1092c710ef0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\79fd6eb17b7a9d2f269f2d4b9f975e5e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\c4f13428cf5e59c468fb352aecfd7e80\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\9e9344b45be3fc3f14291cec773ac3cc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\7f57fb09b0f5d38ada5c642f735d6364\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ec44c87f2ffb5701d48b286826672f79\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\03f2a5494a332b21e8d0262abc87cb56\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\4266dfc75a8623533785fe87d078fdf4\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\4266dfc75a8623533785fe87d078fdf4\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00876cadafcb863ca8b4c32198143b3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00876cadafcb863ca8b4c32198143b3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\b54c6916823f7b82038cf5626aa82665\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\b54c6916823f7b82038cf5626aa82665\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\73cbab6d3dc2208e842a591fdc5dafff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\73cbab6d3dc2208e842a591fdc5dafff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ecf91f8536faae4df3d04a20dcd91f92\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ecf91f8536faae4df3d04a20dcd91f92\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\1fabc6be64b4c35db55eaf3d5d595963\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\1fabc6be64b4c35db55eaf3d5d595963\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\11b5add0f0daf5a500484889bb45edd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\11b5add0f0daf5a500484889bb45edd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00996c73b40f6cbaecb6775618fbc569\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00996c73b40f6cbaecb6775618fbc569\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\03f2a5494a332b21e8d0262abc87cb56\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\03f2a5494a332b21e8d0262abc87cb56\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:9:5-13:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\1fabc6be64b4c35db55eaf3d5d595963\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:11:9-54
+activity#com.demo.androidutilsdemo.MainActivity
+ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+MERGED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\14ef503d7e817eb32e3b386491b877d6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\14ef503d7e817eb32e3b386491b877d6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\4266dfc75a8623533785fe87d078fdf4\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\4266dfc75a8623533785fe87d078fdf4\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00876cadafcb863ca8b4c32198143b3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00876cadafcb863ca8b4c32198143b3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\effb00749157cd666f9793f914bb82fa\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\effb00749157cd666f9793f914bb82fa\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a5bde948a26a9ca4a9b57436b4d2c948\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a5bde948a26a9ca4a9b57436b4d2c948\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\b54c6916823f7b82038cf5626aa82665\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\b54c6916823f7b82038cf5626aa82665\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\73cbab6d3dc2208e842a591fdc5dafff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\73cbab6d3dc2208e842a591fdc5dafff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ecf91f8536faae4df3d04a20dcd91f92\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ecf91f8536faae4df3d04a20dcd91f92\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\36f1a45fe45788bd7f2ee1c7ad6df477\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\36f1a45fe45788bd7f2ee1c7ad6df477\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\50e3015003d21c972722c8c3d40112fd\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\50e3015003d21c972722c8c3d40112fd\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\5a23b2623ebd518085e06be42e72310d\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\5a23b2623ebd518085e06be42e72310d\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\3f0c75a960e8c248fda00ec59f39fadf\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\3f0c75a960e8c248fda00ec59f39fadf\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\05acf7eac3dacf8740849808e15ee17f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\05acf7eac3dacf8740849808e15ee17f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\31cce6b55403954cb6e4ae79fddf5f8d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\31cce6b55403954cb6e4ae79fddf5f8d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\50f974fd7a38ce155a9337fa311be3d9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\50f974fd7a38ce155a9337fa311be3d9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0075fc1a68740d2bccddadc4414708fd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0075fc1a68740d2bccddadc4414708fd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a16706cb4c5a63fc344a186012d6a04f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a16706cb4c5a63fc344a186012d6a04f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a476ee745a3c5b63e88cabeca3e1974e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a476ee745a3c5b63e88cabeca3e1974e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\613a3784c201ed3ddc2e829fb52db439\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\613a3784c201ed3ddc2e829fb52db439\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e101abe3f56576ff3f201d55ada0e88c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e101abe3f56576ff3f201d55ada0e88c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\dbf0dc3f29137e1f0abf7d3ac597a22e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\dbf0dc3f29137e1f0abf7d3ac597a22e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\026167ea4246b5a6f8aa5614d7b6bb67\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\026167ea4246b5a6f8aa5614d7b6bb67\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0baab0d867ff512ca5efafc33914e2b5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0baab0d867ff512ca5efafc33914e2b5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\1fabc6be64b4c35db55eaf3d5d595963\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\1fabc6be64b4c35db55eaf3d5d595963\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\91d031ba60cde78605cbd553ed3b2472\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\91d031ba60cde78605cbd553ed3b2472\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0c3aba4401646d8eb020aeb83ba98f5c\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\0c3aba4401646d8eb020aeb83ba98f5c\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\debf73c419622a25ceea786ea4685813\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\debf73c419622a25ceea786ea4685813\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\7c6a2092c8644655858e27616ef46352\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\7c6a2092c8644655858e27616ef46352\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ca0fd96b5cd0df90f915a65176f5dcde\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ca0fd96b5cd0df90f915a65176f5dcde\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\11b5add0f0daf5a500484889bb45edd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\11b5add0f0daf5a500484889bb45edd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a063e7e4b3a212ddcf9d27bd35c3bc65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a063e7e4b3a212ddcf9d27bd35c3bc65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\92090a57b8781dd8e846f157f562c16b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\92090a57b8781dd8e846f157f562c16b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e345c3b5dcfa922965c1a1190275f346\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e345c3b5dcfa922965c1a1190275f346\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ed49ebda25a1721a3eb6a01949f93069\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ed49ebda25a1721a3eb6a01949f93069\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00996c73b40f6cbaecb6775618fbc569\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00996c73b40f6cbaecb6775618fbc569\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\664531667e87743f2ab0f1092c710ef0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\664531667e87743f2ab0f1092c710ef0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\79fd6eb17b7a9d2f269f2d4b9f975e5e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\79fd6eb17b7a9d2f269f2d4b9f975e5e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\c4f13428cf5e59c468fb352aecfd7e80\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\c4f13428cf5e59c468fb352aecfd7e80\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\9e9344b45be3fc3f14291cec773ac3cc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\9e9344b45be3fc3f14291cec773ac3cc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\7f57fb09b0f5d38ada5c642f735d6364\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\7f57fb09b0f5d38ada5c642f735d6364\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ec44c87f2ffb5701d48b286826672f79\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ec44c87f2ffb5701d48b286826672f79\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\03f2a5494a332b21e8d0262abc87cb56\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\03f2a5494a332b21e8d0262abc87cb56\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidUtilsDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:android-utilities] D:\AndroidUtilsDemo\android-utilities\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e1e99b30eb3183a90d5194cfc578c45c\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\ee88d586673be1473e18c0590590947a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\03f2a5494a332b21e8d0262abc87cb56\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:10:9-12:69
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\03f2a5494a332b21e8d0262abc87cb56\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:10:9-12:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\70a6412ebb0219381e54340e4fa03031\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00996c73b40f6cbaecb6775618fbc569\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\00996c73b40f6cbaecb6775618fbc569\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\a4646abdb9b2e8d7cac645afc38831ea\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mubashir.tasleem.SYSTEMS\.gradle\caches\transforms-3\e7349bca29668dc7a377612aedf76b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
