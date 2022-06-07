@@ -1,5 +1,26 @@
 Android-Utilities
 
+How to add lib in project 
+
+Step 1
+
+Downlaod android-utilities.aar ---> move to ---> libs folder under app
+
+
+Step 2
+
+Settings.gradle --> add   include ':android-utilities'
+
+Step 3 
+
+build.gradle -- > add
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.aar'])
+
+}
+
+
 General
 
 * hideKeyboard
